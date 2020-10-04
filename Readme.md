@@ -1,4 +1,3 @@
-#Electric-Motor-Temp
 
 A machine learning model to predict the temperature of electric motor based on its other attributes.
 Dataset available here: https://www.kaggle.com/wkirgsn/electric-motor-temperature
